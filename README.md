@@ -29,7 +29,7 @@ This project is about Employee Management System built with **React+Vita** , **J
 
 **Add Employee (with Validation)**
 
-![Screenshot 2025-06-28 023120]("https://github.com/user-attachments/assets/641dfc2f-98e7-4882-8ea0-142889a4eef6")
+![Screenshot 2025-06-28 023120](https://github.com/Sudeep-Bhandari/Employee-Management-Sys/blob/c2158b2386abf71c63418a733305f76c05139b47/readme-images/4.png)
 
 **Update the Exisiting Exployee**
 
