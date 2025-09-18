@@ -1,7 +1,7 @@
 # Employee-Management-Sys 🚀
 This project is about Employee Management System built with **React+Vita** , **Java Script** and **Bootstrap** on the **frontend**, and **Spring Boot** with **MySQL** on the **backend**. This web application allows users to perform **CRUD operations (Create, Read, Update, Delete)** on employee data.
 
-![image]("https://github.com/user-attachments/assets/468cc41d-86ab-4163-8ccd-6f38d1a8ed95")
+![image](https://github.com/Sudeep-Bhandari/Employee-Management-Sys/blob/6fb3499a2a05d0d4298c2889dc6c2e21f1340823/readme-images/1.png)
 
 # Features ✨
 * View a list of all employees
