@@ -25,7 +25,7 @@ This project is about Employee Management System built with **React+Vita** , **J
 # Perview
 **List of all employees displayed on the Home page**
 
-![Screenshot 2025-06-28 022837]("https://github.com/user-attachments/assets/1a70d1cd-a13c-494f-b6e4-ff0ce1dbc7fb")
+![Screenshot 2025-06-28 022837](https://github.com/Sudeep-Bhandari/Employee-Management-Sys/blob/07690c6d20708d1fc5d3694b8fb2f71889354ddb/readme-images/3.png)
 
 **Add Employee (with Validation)**
 
