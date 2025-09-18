@@ -20,7 +20,7 @@ This project is about Employee Management System built with **React+Vita** , **J
 * Database: MySQL
 
 # Project Structure
-![Screenshot 2025-06-28 023832]("https://github.com/user-attachments/assets/f0c785d9-4021-4540-a71b-83d7881d6390")
+![Screenshot 2025-06-28 023832](https://github.com/Sudeep-Bhandari/Employee-Management-Sys/blob/ab5b14b04f06f1c3814cce5eeb479a8d5777e6ed/readme-images/2.png)
 
 # Perview
 **List of all employees displayed on the Home page**
