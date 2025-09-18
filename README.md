@@ -33,5 +33,5 @@ This project is about Employee Management System built with **React+Vita** , **J
 
 **Update the Exisiting Exployee**
 
-![update]("https://github.com/user-attachments/assets/8cd324d0-ec86-4910-a518-26b6302534b8")
+![update](https://github.com/Sudeep-Bhandari/Employee-Management-Sys/blob/6da8e1a0891a366516ab081268047b4b1eea88ff/readme-images/5.png)
 
